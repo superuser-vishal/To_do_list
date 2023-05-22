@@ -4,7 +4,7 @@ The To-Do List App is a web application built using Node.js, Express.js, and EJS
 1. User-friendly interface: The app has a clean and intuitive user interface, making it easy for users to interact with their to-do list.
 2. Dynamic rendering: The EJS templating engine dynamically renders the HTML templates, displaying the current date and the list of to-do items.
 3. Multiple lists: Users can create separate lists for their home and work tasks, helping them stay organized and focused.
-4. Item management: Users can add new items to their to-do list, mark items as completed, and remove items from the list.
+4. Item management: Users can add new items to their to-do list, mark items as completed.
 5. Persistence: The app stores the to-do items in memory, ensuring the list is preserved as long as the server is running. However, the data is not persisted beyond the server session.
 ## Routes
 1. /home: This route displays the to-do list for personal tasks. Users can add, mark as completed, or remove items in this list.
